@@ -13,7 +13,8 @@ A Data Science Hackathon organised by Consulting &amp; Analytics Club, IIT Guwah
 - [Deepanshu Raj](https://github.com/deepanshu-Raj)
 
 ### Final Rank - In <b> Top 30 </b>. </br>
-### Certificate [Link](https://github.com/Blazer-007/Cascade-Cup-22/raw/main/certificate.pdf)
+### Certificate [Link](https://certificate.givemycertificate.com/c/cf8e4cf0-ef09-4051-bc27-781fa7f33a04) 
+[Verify Certificate](https://verification.givemycertificate.com/v/cf8e4cf0-ef09-4051-bc27-781fa7f33a04)
 ![Link](https://raw.githubusercontent.com/Blazer-007/Cascade-Cup-22/main/certificate.jpeg)
 
 #### If you like the Repo , give it a star and raise an issue, if you find something wrong.
